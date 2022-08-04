@@ -1,0 +1,4 @@
+.ipynb*
+dask-worker-logs
+data
+mydask.png

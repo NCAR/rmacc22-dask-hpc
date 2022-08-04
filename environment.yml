@@ -1,0 +1,13 @@
+name: /glade/work/vanderwb/conda-envs/my-dask-env
+channels:
+  - conda-forge
+dependencies:
+  - dask
+  - dask-jobqueue
+  - python-graphviz
+  - jupyterlab
+  - ipywidgets
+  - globus-cli
+  - matplotlib
+  - dask-labextension
+prefix: /glade/work/vanderwb/conda-envs/my-dask-env
